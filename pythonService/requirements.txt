@@ -1,0 +1,3 @@
+flask
+gunicorn
+kafka-python
